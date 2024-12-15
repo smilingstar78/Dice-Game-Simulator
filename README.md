@@ -1,6 +1,4 @@
-# Dice-Game-Simulator
-# 🎲 Dice Game Simulator  
-**(6/21 Python Project Challenge)**  
+# 🎲 Dice Game Simulator   
 
 ## 📜 Project Description  
 This is a simple yet exciting **Dice Game Simulator**, where 2 to 4 players compete to reach a maximum score of **100 points**. Players take turns rolling a die, deciding whether to take a risk and roll again or play it safe and bank their points. But beware—rolling a **1** means losing all your points for that turn!
